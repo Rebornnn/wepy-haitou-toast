@@ -1,0 +1,21 @@
+{
+  "name": "wepy-haitou-toast",
+  "version": "1.0.0",
+  "description": "a toast component created by wepy frame",
+  "main": "toast.wpy",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "wechat",
+    "miniprogram",
+    "haitou",
+    "wepy"
+  ],
+  "repository": {
+    "type": "git",
+    "url":"https://github.com/Rebornnn/wepy-haitou-toast.git"
+  },
+  "author": "born",
+  "license": "MIT"
+}
